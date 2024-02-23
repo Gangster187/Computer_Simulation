@@ -18,7 +18,6 @@ public class Computer {
         this.monitor = monitor;
         this.drive = drive;
     }
-
     public Monitor getMonitor() {
         return monitor;
     }
